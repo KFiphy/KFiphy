@@ -16,5 +16,5 @@ I am a Data Analyst passionate about turning complex problems into clear, data-d
 
 ## 📫 Let's Connect!
 * 📧 Email: [asimolowokabirat@gmail.com](asimolowokabirat@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/kabiratasimolowo)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kabiratasimolowo/)
 * 🌐 [Portfolio](https://kfiphy.github.io/analyzewithkabirat/)
